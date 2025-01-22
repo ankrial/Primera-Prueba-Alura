@@ -2,4 +2,5 @@
 - Esto sería el inicio de mi primera práctica de GitHub desde el Curso de Alura
 
 Para ejecutar el sistema debes poner:
-npm install react
+¨¨¨npm install react¨¨¨¨
+
